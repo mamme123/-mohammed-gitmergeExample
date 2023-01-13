@@ -1,3 +1,3 @@
-# -mohammed-gitmergeExample
+# m-git
 
 second example on git
